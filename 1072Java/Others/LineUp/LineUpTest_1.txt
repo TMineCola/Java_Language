@@ -1,0 +1,7 @@
+3
+add 0 小朋友A
+add 0 小朋友B
+add 0 小朋友C
+move 0 小朋友B 1 0
+move 0 小朋友C 2 5
+end
