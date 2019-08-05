@@ -46,16 +46,16 @@ https://hackmd.io/oe5nCejBTn-FC3l7utXJgg
 ## Queue 排隊問題 > LineUp
 ### Queue 演算法 > Queue
 
-## 迷宮找路徑 > Maze
+### 迷宮找路徑 > Maze
 
-## QuickSort 原始 + 混合 > QuickSort
+### QuickSort 原始 + 混合 > QuickSort
 
-## Sudoku 數獨 > Sudoku
+### Sudoku 數獨 > Sudoku
 
-## Synchronized R/W Lock (未實作) > Sync
+### Synchronized R/W Lock (未實作) > Sync
 
-## 1A2B 猜數字 -> Guess
+### 1A2B 猜數字 -> Guess
 
-## 3n + 1
+### 3n + 1
 
-## 反轉相加 -> ReverseAndAdd
+### 反轉相加 -> ReverseAndAdd
